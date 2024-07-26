@@ -1,5 +1,7 @@
 HI! I'm Itamar!!
 
+Studying to become a Frontend developer!
+
 ⚡ Fun fact: I've written screenplay for some Funk and Rap videoclips. Now I write codes.
 
 
