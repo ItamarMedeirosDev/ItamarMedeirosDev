@@ -10,6 +10,8 @@ HI! I'm Itamar!!
 
 ![Itamar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItamarMedeirosDev&show_icons=true&theme=onedark)
 
+![snake animation](https://github.com/ItamarMedeirosDev/ItamarMedeirosDev/blob/output/github-contribution-grid-snake2.svg)
+
 ### Tecnologies I'm currently learning:
 
 <div style= "display: inline-block"><br/>
@@ -20,4 +22,4 @@ HI! I'm Itamar!!
 <img align="center" alt="typescript" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div>
 
-![snake animation](https://github.com/<ItamarMedeirosDev>/<ItamarMedeirosDev>/blob/output/github-contribution-grid-snake2.svg)
+
