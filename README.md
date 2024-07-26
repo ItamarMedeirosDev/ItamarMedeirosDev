@@ -10,7 +10,7 @@ HI! I'm Itamar!!
 
 ![Itamar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItamarMedeirosDev&show_icons=true&theme=onedark)
 
-![snake gif](https://github.com/ItamarMedeirosDev/ItamarMedeirosDev/blob/output/github-contribution-grid-snake.gif)
+![snake animation](https://github.com/ItamarMedeirosDev/ItamarMedeirosDev/blob/output/github-contribution-grid-snake2.svg)
 
 ### Tecnologies I'm currently learning:
 
