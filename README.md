@@ -4,9 +4,9 @@ HI! I'm Itamar!!
 
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)]([https://www.instagram.com/itamar_medeiros6/](https://www.instagram.com/itamar_medeiros6/))
+)]([https://www.instagram.com/itamar_medeiros6/])
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)]([https://www.linkedin.com/in/itamarmedeiros6/](https://www.linkedin.com/in/itamarmedeiros6/))
+)]([https://www.linkedin.com/in/itamarmedeiros6/])
 
 ![Itamar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItamarMedeirosDev&show_icons=true&theme=onedark)
 
